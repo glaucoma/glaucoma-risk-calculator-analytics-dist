@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{HC5s:function(n,r,e){"use strict";e.d(r,"a",(function(){return t})),e.d(r,"b",(function(){return c}));var t=function(n){return new URLSearchParams(n.slice(1)).get("redirectUrl")},c=function(n){return n.replace(/_([a-z])/g,(function(n,r){return r.toUpperCase()}))}}}]);
